@@ -1,6 +1,5 @@
 #################################Information####################################
 #Name: Daniela Hernandez
-#Andrew ID: danielah
 #Project: The Matrix!
 #Description: 112 Term Project, Matrix Calculator with principal matrix operations
 ################################################################################
